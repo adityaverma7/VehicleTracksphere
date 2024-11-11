@@ -1,10 +1,9 @@
-// App.js
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import HomeScreen from './screens/HomeScreen';
-import TraceScreen from './screens/TraceScreen';
+import TraceScreen from './screens/TraceScreen/TraceScreen';
 import PlannerScreen from './screens/PlannerScreen';
 import MoreScreen from './screens/MoreScreen';
 
@@ -46,7 +45,7 @@ export default function App() {
           component={MoreScreen} 
           options={{
             tabBarIcon: ({ color, size }) => (
-              <Icon name="dots-horizontal" color={color} size={size} />
+              <Icon name="star-outline" color={color} size={size} />
             ),
           }}
         />

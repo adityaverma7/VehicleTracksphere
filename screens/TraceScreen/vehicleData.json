@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "number": "KA02HG1786",
+    "status": "Running",
+    "speed": "20 kmph",
+    "voltage": "12.5V",
+    "vehicleId": "MAT788052P7C06674"
+  },
+  {
+    "id": "2",
+    "number": "KA02HG1547",
+    "status": "Idle",
+    "idleTime": "20 mins",
+    "voltage": "12.5V",
+    "vehicleId": "MAT788052P7C06675"
+  },
+  {
+    "id": "3",
+    "number": "KA02HG1287",
+    "status": "Running",
+    "speed": "45 kmph",
+    "voltage": "13.0V",
+    "vehicleId": "MAT788052P7C06676"
+  },
+  {
+    "id": "4",
+    "number": "KA02HG1327",
+    "status": "Halt",
+    "idleTime": "10 mins",
+    "voltage": "11.8V",
+    "vehicleId": "MAT788052P7C06677"
+  },
+  {
+    "id": "5",
+    "number": "KA02HG1345",
+    "status": "Idle",
+    "idleTime": "25 mins",
+    "voltage": "12.5V",
+    "vehicleId": "MAT788052P7C06678"
+  },
+  {
+    "id": "6",
+    "number": "KA02HG1983",
+    "status": "Running",
+    "speed": "60 kmph",
+    "voltage": "12.7V",
+    "vehicleId": "MAT788052P7C06679"
+  },
+  {
+    "id": "7",
+    "number": "KA02HG1448",
+    "status": "Halt",
+    "idleTime": "5 mins",
+    "voltage": "11.6V",
+    "vehicleId": "MAT788052P7C06680"
+  },
+  {
+    "id": "8",
+    "number": "KA02HG1503",
+    "status": "Running",
+    "speed": "50 kmph",
+    "voltage": "12.8V",
+    "vehicleId": "MAT788052P7C06681"
+  },
+  {
+    "id": "9",
+    "number": "KA02HG1623",
+    "status": "Idle",
+    "idleTime": "15 mins",
+    "voltage": "12.4V",
+    "vehicleId": "MAT788052P7C06682"
+  },
+  {
+    "id": "10",
+    "number": "KA02HG1357",
+    "status": "Running",
+    "speed": "30 kmph",
+    "voltage": "12.9V",
+    "vehicleId": "MAT788052P7C06683"
+  },
+  {
+    "id": "11",
+    "number": "KA02HG1921",
+    "status": "Idle",
+    "idleTime": "40 mins",
+    "voltage": "12.3V",
+    "vehicleId": "MAT788052P7C06684"
+  },
+  {
+    "id": "12",
+    "number": "KA02HG1455",
+    "status": "Running",
+    "speed": "25 kmph",
+    "voltage": "12.6V",
+    "vehicleId": "MAT788052P7C06685"
+  },
+  {
+    "id": "13",
+    "number": "KA02HG1778",
+    "status": "Halt",
+    "idleTime": "35 mins",
+    "voltage": "11.7V",
+    "vehicleId": "MAT788052P7C06686"
+  },
+  {
+    "id": "14",
+    "number": "KA02HG1342",
+    "status": "Idle",
+    "idleTime": "12 mins",
+    "voltage": "12.4V",
+    "vehicleId": "MAT788052P7C06687"
+  },
+  {
+    "id": "15",
+    "number": "KA02HG1588",
+    "status": "Running",
+    "speed": "15 kmph",
+    "voltage": "13.2V",
+    "vehicleId": "MAT788052P7C06688"
+  },
+  {
+    "id": "16",
+    "number": "KA02HG1800",
+    "status": "Idle",
+    "idleTime": "8 mins",
+    "voltage": "12.3V",
+    "vehicleId": "MAT788052P7C06689"
+  },
+  {
+    "id": "17",
+    "number": "KA02HG1472",
+    "status": "Running",
+    "speed": "35 kmph",
+    "voltage": "12.9V",
+    "vehicleId": "MAT788052P7C06690"
+  },
+  {
+    "id": "18",
+    "number": "KA02HG1760",
+    "status": "Halt",
+    "idleTime": "18 mins",
+    "voltage": "11.5V",
+    "vehicleId": "MAT788052P7C06691"
+  },
+  {
+    "id": "19",
+    "number": "KA02HG1509",
+    "status": "Idle",
+    "idleTime": "22 mins",
+    "voltage": "12.2V",
+    "vehicleId": "MAT788052P7C06692"
+  },
+  {
+    "id": "20",
+    "number": "KA02HG1295",
+    "status": "Running",
+    "speed": "55 kmph",
+    "voltage": "13.1V",
+    "vehicleId": "MAT788052P7C06693"
+  },
+  {
+    "id": "21",
+    "number": "KA02HG1297",
+    "status": "Offline",
+    "speed": "56 kmph",
+    "voltage": "13.1V",
+    "vehicleId": "MAT788052P7C06694"
+  }
+]
