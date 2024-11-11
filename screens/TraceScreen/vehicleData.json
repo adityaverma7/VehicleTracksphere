@@ -5,7 +5,14 @@
     "status": "Running",
     "speed": "20 kmph",
     "voltage": "12.5V",
-    "vehicleId": "MAT788052P7C06674"
+    "vehicleId": "MAT788052P7C06674",
+    "dieselLevel": "20/90",
+    "adblueLevel": "6/20",
+    "kilometerDriven": "12540 km",
+    "hours": "250 hrs",
+    "mileage": "15 km/l",
+    "location": "Electronic City Phase I, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 09:30"
   },
   {
     "id": "2",
@@ -13,7 +20,14 @@
     "status": "Idle",
     "idleTime": "20 mins",
     "voltage": "12.5V",
-    "vehicleId": "MAT788052P7C06675"
+    "vehicleId": "MAT788052P7C06675",
+    "dieselLevel": "40/90",
+    "adblueLevel": "8/20",
+    "kilometerDriven": "15620 km",
+    "hours": "300 hrs",
+    "mileage": "14 km/l",
+    "location": "Whitefield Main Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 09:45"
   },
   {
     "id": "3",
@@ -21,7 +35,14 @@
     "status": "Running",
     "speed": "45 kmph",
     "voltage": "13.0V",
-    "vehicleId": "MAT788052P7C06676"
+    "vehicleId": "MAT788052P7C06676",
+    "dieselLevel": "30/90",
+    "adblueLevel": "10/20",
+    "kilometerDriven": "10200 km",
+    "hours": "280 hrs",
+    "mileage": "16 km/l",
+    "location": "Koramangala 5th Block, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:00"
   },
   {
     "id": "4",
@@ -29,7 +50,14 @@
     "status": "Halt",
     "idleTime": "10 mins",
     "voltage": "11.8V",
-    "vehicleId": "MAT788052P7C06677"
+    "vehicleId": "MAT788052P7C06677",
+    "dieselLevel": "15/90",
+    "adblueLevel": "5/20",
+    "kilometerDriven": "18900 km",
+    "hours": "400 hrs",
+    "mileage": "12 km/l",
+    "location": "Peenya Industrial Area, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:15"
   },
   {
     "id": "5",
@@ -37,7 +65,14 @@
     "status": "Idle",
     "idleTime": "25 mins",
     "voltage": "12.5V",
-    "vehicleId": "MAT788052P7C06678"
+    "vehicleId": "MAT788052P7C06678",
+    "dieselLevel": "25/90",
+    "adblueLevel": "7/20",
+    "kilometerDriven": "14230 km",
+    "hours": "320 hrs",
+    "mileage": "13 km/l",
+    "location": "Marathahalli Bridge, Outer Ring Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:20"
   },
   {
     "id": "6",
@@ -45,7 +80,14 @@
     "status": "Running",
     "speed": "60 kmph",
     "voltage": "12.7V",
-    "vehicleId": "MAT788052P7C06679"
+    "vehicleId": "MAT788052P7C06679",
+    "dieselLevel": "45/90",
+    "adblueLevel": "15/20",
+    "kilometerDriven": "22150 km",
+    "hours": "500 hrs",
+    "mileage": "17 km/l",
+    "location": "Bannerghatta National Park Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:25"
   },
   {
     "id": "7",
@@ -53,7 +95,14 @@
     "status": "Halt",
     "idleTime": "5 mins",
     "voltage": "11.6V",
-    "vehicleId": "MAT788052P7C06680"
+    "vehicleId": "MAT788052P7C06680",
+    "dieselLevel": "10/90",
+    "adblueLevel": "3/20",
+    "kilometerDriven": "17650 km",
+    "hours": "380 hrs",
+    "mileage": "12 km/l",
+    "location": "M.G. Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:30"
   },
   {
     "id": "8",
@@ -61,7 +110,14 @@
     "status": "Running",
     "speed": "50 kmph",
     "voltage": "12.8V",
-    "vehicleId": "MAT788052P7C06681"
+    "vehicleId": "MAT788052P7C06681",
+    "dieselLevel": "35/90",
+    "adblueLevel": "12/20",
+    "kilometerDriven": "20500 km",
+    "hours": "460 hrs",
+    "mileage": "16 km/l",
+    "location": "Rajajinagar Industrial Area, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:35"
   },
   {
     "id": "9",
@@ -69,7 +125,14 @@
     "status": "Idle",
     "idleTime": "15 mins",
     "voltage": "12.4V",
-    "vehicleId": "MAT788052P7C06682"
+    "vehicleId": "MAT788052P7C06682",
+    "dieselLevel": "20/90",
+    "adblueLevel": "6/20",
+    "kilometerDriven": "16750 km",
+    "hours": "390 hrs",
+    "mileage": "13 km/l",
+    "location": "Indiranagar Double Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:40"
   },
   {
     "id": "10",
@@ -77,7 +140,14 @@
     "status": "Running",
     "speed": "30 kmph",
     "voltage": "12.9V",
-    "vehicleId": "MAT788052P7C06683"
+    "vehicleId": "MAT788052P7C06683",
+    "dieselLevel": "40/90",
+    "adblueLevel": "10/20",
+    "kilometerDriven": "24000 km",
+    "hours": "550 hrs",
+    "mileage": "15 km/l",
+    "location": "Yeshwanthpur Railway Station, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:45"
   },
   {
     "id": "11",
@@ -85,7 +155,14 @@
     "status": "Idle",
     "idleTime": "40 mins",
     "voltage": "12.3V",
-    "vehicleId": "MAT788052P7C06684"
+    "vehicleId": "MAT788052P7C06684",
+    "dieselLevel": "18/90",
+    "adblueLevel": "5/20",
+    "kilometerDriven": "20000 km",
+    "hours": "470 hrs",
+    "mileage": "14 km/l",
+    "location": "Hebbal Flyover, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:50"
   },
   {
     "id": "12",
@@ -93,7 +170,14 @@
     "status": "Running",
     "speed": "25 kmph",
     "voltage": "12.6V",
-    "vehicleId": "MAT788052P7C06685"
+    "vehicleId": "MAT788052P7C06685",
+    "dieselLevel": "32/90",
+    "adblueLevel": "11/20",
+    "kilometerDriven": "21150 km",
+    "hours": "490 hrs",
+    "mileage": "15 km/l",
+    "location": "Jayanagar 4th Block, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 10:55"
   },
   {
     "id": "13",
@@ -101,7 +185,14 @@
     "status": "Halt",
     "idleTime": "35 mins",
     "voltage": "11.7V",
-    "vehicleId": "MAT788052P7C06686"
+    "vehicleId": "MAT788052P7C06686",
+    "dieselLevel": "12/90",
+    "adblueLevel": "4/20",
+    "kilometerDriven": "17800 km",
+    "hours": "410 hrs",
+    "mileage": "13 km/l",
+    "location": "Malleshwaram Market Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:00"
   },
   {
     "id": "14",
@@ -109,7 +200,14 @@
     "status": "Idle",
     "idleTime": "12 mins",
     "voltage": "12.4V",
-    "vehicleId": "MAT788052P7C06687"
+    "vehicleId": "MAT788052P7C06687",
+    "dieselLevel": "28/90",
+    "adblueLevel": "9/20",
+    "kilometerDriven": "14500 km",
+    "hours": "330 hrs",
+    "mileage": "14 km/l",
+    "location": "Brigade Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:05"
   },
   {
     "id": "15",
@@ -117,7 +215,14 @@
     "status": "Running",
     "speed": "15 kmph",
     "voltage": "13.2V",
-    "vehicleId": "MAT788052P7C06688"
+    "vehicleId": "MAT788052P7C06688",
+    "dieselLevel": "25/90",
+    "adblueLevel": "7/20",
+    "kilometerDriven": "13800 km",
+    "hours": "350 hrs",
+    "mileage": "16 km/l",
+    "location": "Sadashivanagar, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:10"
   },
   {
     "id": "16",
@@ -125,7 +230,14 @@
     "status": "Idle",
     "idleTime": "8 mins",
     "voltage": "12.3V",
-    "vehicleId": "MAT788052P7C06689"
+    "vehicleId": "MAT788052P7C06689",
+    "dieselLevel": "16/90",
+    "adblueLevel": "5/20",
+    "kilometerDriven": "10500 km",
+    "hours": "240 hrs",
+    "mileage": "13 km/l",
+    "location": "Lalbagh Botanical Gardens, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:15"
   },
   {
     "id": "17",
@@ -133,7 +245,14 @@
     "status": "Running",
     "speed": "35 kmph",
     "voltage": "12.9V",
-    "vehicleId": "MAT788052P7C06690"
+    "vehicleId": "MAT788052P7C06690",
+    "dieselLevel": "36/90",
+    "adblueLevel": "12/20",
+    "kilometerDriven": "22100 km",
+    "hours": "490 hrs",
+    "mileage": "15 km/l",
+    "location": "Hosur Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:20"
   },
   {
     "id": "18",
@@ -141,7 +260,14 @@
     "status": "Halt",
     "idleTime": "18 mins",
     "voltage": "11.5V",
-    "vehicleId": "MAT788052P7C06691"
+    "vehicleId": "MAT788052P7C06691",
+    "dieselLevel": "15/90",
+    "adblueLevel": "6/20",
+    "kilometerDriven": "19200 km",
+    "hours": "430 hrs",
+    "mileage": "12 km/l",
+    "location": "Commercial Street, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:25"
   },
   {
     "id": "19",
@@ -149,7 +275,14 @@
     "status": "Idle",
     "idleTime": "22 mins",
     "voltage": "12.2V",
-    "vehicleId": "MAT788052P7C06692"
+    "vehicleId": "MAT788052P7C06692",
+    "dieselLevel": "18/90",
+    "adblueLevel": "7/20",
+    "kilometerDriven": "15800 km",
+    "hours": "380 hrs",
+    "mileage": "13 km/l",
+    "location": "Ulsoor Lake Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:30"
   },
   {
     "id": "20",
@@ -157,7 +290,14 @@
     "status": "Running",
     "speed": "55 kmph",
     "voltage": "13.1V",
-    "vehicleId": "MAT788052P7C06693"
+    "vehicleId": "MAT788052P7C06693",
+    "dieselLevel": "42/90",
+    "adblueLevel": "13/20",
+    "kilometerDriven": "23000 km",
+    "hours": "520 hrs",
+    "mileage": "17 km/l",
+    "location": "Mysore Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:35"
   },
   {
     "id": "21",
@@ -165,6 +305,13 @@
     "status": "Offline",
     "speed": "56 kmph",
     "voltage": "13.1V",
-    "vehicleId": "MAT788052P7C06694"
+    "vehicleId": "MAT788052P7C06694",
+    "dieselLevel": "42/90",
+    "adblueLevel": "13/20",
+    "kilometerDriven": "23000 km",
+    "hours": "520 hrs",
+    "mileage": "17 km/l",
+    "location": "Mysore Road, Bangalore, Karnataka, India",
+    "lastUpdated": "2024-11-11 11:35"
   }
 ]
